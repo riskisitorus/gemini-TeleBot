@@ -42,3 +42,8 @@ chat_session = model.start_chat(
 )
 ```
 This code is derived from the documentation of **[Google AI Studio](https://aistudio.google.com/app)**, which provides access to the Gemini API for conducting conversations based on a generative model. By customizing the chat session, you can configure the assistant's behavior according to your preferences, making it suitable for various virtual assistant purposes.
+
+You can set the maximum number of tokens for the response from Gemini.
+```python
+"max_output_tokens": 500,
+```
