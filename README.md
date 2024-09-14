@@ -7,7 +7,6 @@ A Python-based Telegram bot built using Pyrogram, integrated with Google Gemini 
    - Google Gemini Integration: Utilizes Google Gemini (Generative AI) for advanced text and image processing, enhancing the conversational 
    capabilities of the bot.
    - Customizable Chat Sessions: Easily customizable history and behavior to suit specific needs.
-   - File Upload to Gemini: Seamlessly upload media files to Google Gemini for analysis.
 
 ## How to Run:
 1. Clone this repository.
